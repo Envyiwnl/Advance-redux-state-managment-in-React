@@ -1,2 +1,4 @@
 # Advance-redux-state-managment-in-React
-Created with CodeSandbox
+- Thunks Implementation
+- react-redux implementation
+- slice & selector implementation 
